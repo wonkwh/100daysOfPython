@@ -1,4 +1,6 @@
 {
   "python.linting.enabled": true,
-  "python.pythonPath": "/Applications/Xcode.app/Contents/Developer/usr/bin/python3"
+  "python.pythonPath": "/Users/kwanghyunwon/.pyenv/shims/python",
+  "python.linting.pylintEnabled": false,
+  "python.linting.flake8Enabled": true
 }
